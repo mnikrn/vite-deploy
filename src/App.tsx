@@ -48,7 +48,7 @@ const App = () => {
           <h1
             className="text-4xl font-extrabold text-white sm:text-5xl md:text-6xl"
           >
-            Hello, World!
+            Hello, World! :)
           </h1>
           <p className="my-4 text-xl text-white">
             I'm a UI/UX and Product Designer!
